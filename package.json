@@ -1,0 +1,20 @@
+{
+  "name": "@registerbook/rb-htmltopdf",
+  "version": "1.0.2",
+  "scripts": {
+    "start": "node_modules/react-native/packager/packager.sh"
+  },
+  "description": "Convert html strings to PDF documents using React Native",
+  "repository": {
+    "type": "git",
+    "url": "github:akshayshinde-registerbook/rb-htmlToPdf"
+  },
+  "keywords": [
+    "html",
+    "pdf",
+    "react-native"
+  ],
+  "author": "akshay.shinde@registerbook.in",
+  "homepage": "https://github.com/akshayshinde-registerbook/rb-htmlToPdf",
+  "license": "ISC"
+}
